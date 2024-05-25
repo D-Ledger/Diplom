@@ -1,0 +1,52 @@
+﻿<Window x:Class="RZD.AuditorWays"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RZD"
+        mc:Ignorable="d"
+        Title="Осмотр путей" Icon="/Images/rzd.png" 
+        Height="410" Width="720" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="12" Background="{TemplateBinding Background}" BorderBrush="Black" BorderThickness="1.5">
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Window.Background>
+        <ImageBrush ImageSource="/Images/logo.jpg" />
+    </Window.Background>
+    <Grid>
+        <GroupBox FontSize="14" Header="Информация о путях" FontFamily="Century Gothic" BorderBrush="Black" Margin="0 0 0 10">
+            <StackPanel>
+                <TextBlock  FontSize="16" Text="Дата" FontFamily="Century Gothic" Margin="5"/>
+                <DatePicker x:Name="DepartureDate"  SelectedDate="{Binding Path=Date}" Margin="5"/>
+                
+                
+                <TextBlock  FontSize="16" Text="Название пути" FontFamily="Century Gothic" Margin="5"/>
+                <ComboBox Name="WaysComboBox" Margin="5 0 5 0" ItemsSource="{Binding Path=WaysList}" SelectedItem="{Binding Way}" DisplayMemberPath="WaysName" />
+
+                <TextBlock  FontSize="16" Text="Нарушение" FontFamily="Century Gothic" Margin="5"/>
+                <TextBox x:Name="Description" FontSize="16" Margin="5" TextWrapping="Wrap">
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="8"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+
+                <Button x:Name="sendButton" Content="Отправить путейцам" HorizontalAlignment="Center" Background="White" Margin="6" VerticalAlignment="Top" Width="150" Height="26" Click="SendButton_Click"/>
+                <Button x:Name="closeButton" Content="Закрыть движение" HorizontalAlignment="Center" Background="White" Margin="6" VerticalAlignment="Top" Width="150" Height="26" Click="CloseButton_Click"/>
+
+                <TextBlock x:Name="recordInfoTextBlock" HorizontalAlignment="Center" FontSize="16" Foreground="Red" Width="120" TextWrapping="Wrap"/>
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>

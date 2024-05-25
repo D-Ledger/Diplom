@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\backFon.jpg" />
+    <None Remove="Images\fon1.jpg" />
+    <None Remove="Images\fon2.png" />
+    <None Remove="Images\fonat.png" />
+    <None Remove="Images\fonss112.png" />
+    <None Remove="Images\fontrain.png" />
+    <None Remove="Images\fontrain1.png" />
+    <None Remove="Images\fonw.jpg" />
+    <None Remove="Images\logo.jpg" />
+    <None Remove="Images\logo1.jpg" />
+    <None Remove="Images\norzd.jpg" />
+    <None Remove="Images\rzd-2.png" />
+    <None Remove="Images\rzd.png" />
+    <None Remove="Images\snow.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\backFon.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\snow.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\rzd-2.png" />
+    <Resource Include="Images\rzd.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Extended.Wpf.Toolkit" Version="4.6.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\fon1.jpg" />
+    <Resource Include="Images\fon2.png" />
+    <Resource Include="Images\fonat.png" />
+    <Resource Include="Images\fonss112.png" />
+    <Resource Include="Images\fontrain.png" />
+    <Resource Include="Images\fontrain1.png" />
+    <Resource Include="Images\fonw.jpg" />
+    <Resource Include="Images\logo.jpg" />
+    <Resource Include="Images\logo1.jpg" />
+    <Resource Include="Images\norzd.jpg" />
+  </ItemGroup>
+
+</Project>

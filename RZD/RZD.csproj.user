@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Editings\EditAuditorTrainInspection.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Editings\EditAuditorWaysInspections.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Editings\EditTrainInspection.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Editings\EditWaysInspections.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\LoginWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\AuditorStartWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\AuditorTrainInspection.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\AuditorWays.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\StartWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\TrainInspection.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\WaysInspections.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,249 @@
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\RZD.exe
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\RZD.deps.json
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\RZD.runtimeconfig.json
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\RZD.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\RZD.pdb
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Npgsql.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\RZD.csproj.AssemblyReference.cache
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditAuditorTrainInspection.g.cs
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditAuditorWaysInspections.g.cs
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditTrainInspection.g.cs
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditWaysInspections.g.cs
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\LoginWindow.g.cs
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorStartWindow.g.cs
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorTrainInspection.g.cs
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorWays.g.cs
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Pages\StartWindow.g.cs
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Pages\TrainInspection.g.cs
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Pages\WaysInspections.g.cs
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\App.g.cs
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\RZD_MarkupCompile.cache
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\RZD_MarkupCompile.lref
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditAuditorTrainInspection.baml
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditAuditorWaysInspections.baml
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditTrainInspection.baml
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditWaysInspections.baml
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\LoginWindow.baml
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\MainWindow.baml
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorStartWindow.baml
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorTrainInspection.baml
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorWays.baml
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Pages\StartWindow.baml
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Pages\TrainInspection.baml
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\Pages\WaysInspections.baml
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\RZD.g.resources
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\RZD.GeneratedMSBuildEditorConfig.editorconfig
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\RZD.AssemblyInfoInputs.cache
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\RZD.AssemblyInfo.cs
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\RZD.csproj.CoreCompileInputs.cache
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\RZD.csproj.CopyComplete
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\RZD.dll
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\refint\RZD.dll
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\RZD.pdb
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\RZD.genruntimeconfig.cache
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\ref\RZD.dll
+E:\данил\уроки\RZD\RZD\obj\Debug\net6.0-windows\App.baml
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Humanizer.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\данил\уроки\RZD\RZD\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\RZD.exe
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\RZD.deps.json
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\RZD.runtimeconfig.json
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\RZD.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\RZD.pdb
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Humanizer.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Npgsql.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\финалы курсача\RZD\RZD\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\RZD.csproj.AssemblyReference.cache
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditAuditorTrainInspection.g.cs
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditAuditorWaysInspections.g.cs
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditTrainInspection.g.cs
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditWaysInspections.g.cs
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\LoginWindow.g.cs
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorStartWindow.g.cs
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorTrainInspection.g.cs
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorWays.g.cs
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Pages\StartWindow.g.cs
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Pages\TrainInspection.g.cs
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Pages\WaysInspections.g.cs
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\App.g.cs
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\RZD_MarkupCompile.cache
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\RZD_MarkupCompile.lref
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\App.baml
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditAuditorTrainInspection.baml
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditAuditorWaysInspections.baml
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditTrainInspection.baml
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditWaysInspections.baml
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\LoginWindow.baml
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\MainWindow.baml
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorStartWindow.baml
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorTrainInspection.baml
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorWays.baml
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Pages\StartWindow.baml
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Pages\TrainInspection.baml
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\Pages\WaysInspections.baml
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\RZD.g.resources
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\RZD.GeneratedMSBuildEditorConfig.editorconfig
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\RZD.AssemblyInfoInputs.cache
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\RZD.AssemblyInfo.cs
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\RZD.csproj.CoreCompileInputs.cache
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\RZD.csproj.CopyComplete
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\RZD.dll
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\refint\RZD.dll
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\RZD.pdb
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\RZD.genruntimeconfig.cache
+E:\данил\финалы курсача\RZD\RZD\obj\Debug\net6.0-windows\ref\RZD.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\RZD.exe
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\RZD.deps.json
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\RZD.runtimeconfig.json
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\RZD.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\RZD.pdb
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Humanizer.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Npgsql.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+E:\данил\Диплом\RZD\RZD\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\RZD.csproj.AssemblyReference.cache
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditAuditorTrainInspection.g.cs
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditAuditorWaysInspections.g.cs
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditTrainInspection.g.cs
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditWaysInspections.g.cs
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorStartWindow.g.cs
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorTrainInspection.g.cs
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorWays.g.cs
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Pages\StartWindow.g.cs
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Pages\TrainInspection.g.cs
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Pages\WaysInspections.g.cs
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\App.g.cs
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\RZD_MarkupCompile.cache
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\RZD_MarkupCompile.lref
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\App.baml
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditAuditorTrainInspection.baml
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditAuditorWaysInspections.baml
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditTrainInspection.baml
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Editings\EditWaysInspections.baml
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorStartWindow.baml
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorTrainInspection.baml
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Pages\AuditorWays.baml
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Pages\StartWindow.baml
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Pages\TrainInspection.baml
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Pages\WaysInspections.baml
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\RZD.g.resources
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\RZD.GeneratedMSBuildEditorConfig.editorconfig
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\RZD.AssemblyInfoInputs.cache
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\RZD.AssemblyInfo.cs
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\RZD.csproj.CoreCompileInputs.cache
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\RZD.csproj.CopyComplete
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\RZD.dll
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\refint\RZD.dll
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\RZD.pdb
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\RZD.genruntimeconfig.cache
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\ref\RZD.dll
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Pages\LoginWindow.g.cs
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\Pages\LoginWindow.baml
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\данил\Диплом\RZD\RZD\obj\Debug\net6.0-windows\MainWindow.baml
